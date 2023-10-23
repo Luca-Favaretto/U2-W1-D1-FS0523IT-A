@@ -203,10 +203,10 @@ footer a {
     margin: 5rem auto 5rem;
   }
   table td {
-    width: 26vw;
+    width: 26%;
   }
   table td:first-child {
-    width: 13vw;
+    width: 13%;
   }
   input {
     width: 80%;
@@ -298,5 +298,8 @@ footer a {
   body {
     font-size: 2.3rem;
     padding: 0px;
+  }
+  main {
+    box-shadow: none;
   }
 }
